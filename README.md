@@ -1,3 +1,4 @@
+![My banner](banner.gif)
 <h1 align="center"> Hey, I'm Sahriar Saif </h1>
 
 <p align="center">

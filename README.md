@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="40px" width="40px">
 </p><h3 align="center">Web Developer | Frontend & Backend Enthusiast</h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SahriarSaif&label=Profile%20Views&color=00FFFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=SahriarSaif&label=Profile%20Views&color=136163&style=flat-square" />
 </p>
 
 <h2>About Me</h2>
@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 </p><p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+  <img src="https://skillicons.dev/icons?i=vscode,sublime,github,acode" />
 </p><p align="center">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Acode-000000?style=for-the-badge" />

@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="40px" width="40px">
 </p><h3 align="center">Web Developer | Frontend & Backend Enthusiast</h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SahriarSaif&label=Profile%20Views&color=00dddd&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=SahriarSaif&label=Profile%20Views&color=00bbbb&style=flat-square" />
 </p>
 
 <h2>About Me</h2>
